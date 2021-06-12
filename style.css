@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Mate SC', serif;
+    color: #F50057;
+}
+
+h2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #1A237E;
+}
+
+p, li {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #212121;
+}
+
+li {
+    text-align: left;
+}
